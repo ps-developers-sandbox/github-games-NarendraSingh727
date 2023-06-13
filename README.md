@@ -1,6 +1,6 @@
 ## Welcome to GitHub Games
 
-A project based learning activity for people who are getting started with Git and GitHub.
+A project based learning activity for people who are getting started with Git and GitHubs.
 
 You can play the game at: https://ps-developers-sandbox.github.io/github-games-NarendraSingh727/
 
